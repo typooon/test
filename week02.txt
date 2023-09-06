@@ -1,0 +1,11 @@
+week02
+- linux commmands
+  ls, ls -a, ls -l, ls -al
+  pwd, cd .git cd .., touch
+  vi week01.txt,
+- git commands
+  git init
+  gi status
+  git add week01.txt
+  git config --global user.email "aaa@example.com"
+  git config --global user.name "aaa"
