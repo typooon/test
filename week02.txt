@@ -16,4 +16,6 @@ week02
   git log
   git checkout hashcode
   git checkout -
+  git push -u origin main
+  git clone .
 
